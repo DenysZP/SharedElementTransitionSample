@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="delay">50</integer>
+    <integer name="duration">400</integer>
+
+</resources>
